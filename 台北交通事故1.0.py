@@ -7,7 +7,7 @@ cursor = db.cursor()
 
 plt.rcParams['font.sans-serif'] = ['SimSun']  # 步驟一（替換sans-serif字型）
 plt.rcParams['axes.unicode_minus'] = False  # 步驟二（解決座標軸負數的負號顯示問題）
-
+#123456
 list=[]    #年
 listhappen=[]   #發生件數[件]
 listCarR=[]     #車輛肇事率[件/萬輛]
